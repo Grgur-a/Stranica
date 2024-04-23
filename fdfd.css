@@ -4,6 +4,7 @@ body
     background-position-y: top;
     background-position-x: right;
     background-repeat: no-repeat;
+    text-align: justify;
 }
 p
 {
@@ -22,4 +23,8 @@ p.drugi
     font-color: "firebrick";
     text-allign: center;
     text-decoration: underline;
+}
+p.treci
+{
+    text-align: right;
 }
