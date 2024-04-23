@@ -17,3 +17,9 @@ p.citat
     border: 1px solid #000;
     background-color: #ffffcc;
 }
+p.drugi
+{
+    font-color: "firebrick";
+    text-allign: center;
+    text-decoration: underline;
+}
