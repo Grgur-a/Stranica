@@ -20,6 +20,7 @@ p.citat
 }
 p.drugi
 {
+    margin-left: 4px;
     color: firebrick;
     text-align: center;
     text-decoration: underline;
@@ -32,9 +33,18 @@ p.drugi
 }
 p.treci
 {
+    margin-left: 8px;
     padding: 15px;
     text-align: right;
     border-style: inset;
     border-width: thick;
     border-color: green;
+}
+h1
+{
+    margin-top: 2px;
+
+
+
+
 }
