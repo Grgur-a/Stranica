@@ -32,6 +32,7 @@ p.drugi
 }
 p.treci
 {
+    padding: 15px;
     text-align: right;
     border-style: inset;
     border-width: thick;
