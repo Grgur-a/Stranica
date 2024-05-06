@@ -50,6 +50,12 @@ ul li a, ul li a:visited{
     margin: 1px;
     padding: 2px 0px 2px 5px;
     width: 100px;
+    border-left-color: blue;
+    border-left-width: 6px;
+    border-left-style: solid;
+    marign:0px;
+    padding: 0px;
+    border-left-style: solid;
 }
 ul ul li a, ul ul li a:visited{
     display: block;
