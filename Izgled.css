@@ -56,13 +56,13 @@ ul ul li a, ul ul li a:visited{
     text-decoration: none;
     margin: 1px 1px 1px 15px;
     width: 100px;
-    color: blue;
     font-weight: bold;
+    border-left-color: blue;
     border-left-width: 6px;
     border-style: solid;
     marign:0px;
     padding: 0px;
-    border-color: blue;
+    border-left-style: solid;
 }
 ul, li{
     list-style: none;
