@@ -65,4 +65,5 @@ ul, li{
     font-weight: bold;
     border-left-width: 6px;
     border-style: solid;
+    border-color: blue;
 }
